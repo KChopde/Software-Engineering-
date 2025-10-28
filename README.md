@@ -7,7 +7,7 @@
                                   Does this violation cause bug, maintenance issue or perforance issue and
                                   if true how can it be fixed.
 
-4.SE_PPT.pptx: Power Point Presentation slides
+ 4.SE_PPT.pptx: Power Point Presentation slides
                 CONTENTS:
                 
                 Research Paper1:
